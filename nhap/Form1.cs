@@ -148,7 +148,7 @@ namespace nhap
 
         private void BtnNewGame_Click(object sender, EventArgs e)
         {
-            if (numberCol == 3)
+            if (numberCol == 2)
             {
                 clearButton();
                 addButton(numberCol);
